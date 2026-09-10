@@ -1,16 +1,15 @@
-## Hi there 👋
+## Sadik Khan | Software Developer
 
-<!--
-**Sadik-khan077/Sadik-khan077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bridging the gap between ideas and reality through code. I am focused on writing clean, efficient, and accessible applications while continuously expanding my technical toolkit.
 
-Here are some ideas to get you started:
+**My Tech Stack:**
+* **Languages: C, C++, Java, Kotlin, Python, JavaScript**
+* **Frameworks: HTML, CSS, React, node.js, Spring Boot**
+* **Tools: Visual Studio, intelliJ IDEA, Git, GitHub, MySQL, MongoDB, Docker, Wireshark**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Let's connect: [[Portfolio Website URL]](https://portfolio-xi-sable-yi0srkvi61.vercel.app/)
+
+---
+## 📊 My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadik-khan077&theme=dark&hide_border=true)](https://git.io/streak-stats)
